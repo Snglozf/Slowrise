@@ -41,3 +41,7 @@ The owners of all ready-made assets used in this project are listed below:
 * **Background Music:** * [Sound 835112 by YoshikaMiyafuji](https://freesound.org/people/YoshikaMiyafuji/sounds/835112/)
   * [Sound 470083 by Sheyvan](https://freesound.org/people/Sheyvan/sounds/470083/)
   * [Sound 240376 by edtijo](https://freesound.org/people/edtijo/sounds/240376/)
+
+## Playable Build
+Download the playable version here:
+[https://drive.google.com/file/d/1_7Imk2v14NVEyLvoeZpS3rOBKi0ctXqu/view?usp=sharing]
